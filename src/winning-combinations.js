@@ -34,4 +34,9 @@ export const WINNING_COMBINATIONS = [
     { row: 1, col: 1 },
     { row: 2, col: 0 },
   ],
+  [
+    { row: 0, col: 0 },
+    { row: 1, col: 1 },
+    { row: 2, col: 2 },
+  ],
 ];
